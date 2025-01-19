@@ -1,6 +1,6 @@
 # Hi there, I'm acadl! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in [your interests, e.g., web development, data science, open-source projects, etc.]. Here you'll find some of my projects and contributions to the developer community.
+Welcome to my GitHub profile like a student! I'm a passionate developer with a keen interest in web development, data science, machine learning... Here you'll find some of my projects and contributions to the developer community.
 
 ## 🚀 About Me
 
