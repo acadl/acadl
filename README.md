@@ -11,7 +11,7 @@ Meu linkedin: https://www.linkedin.com/in/ailtoncostaa/
 - 🎓 Cursando graduação em Engenharia da Computação
 - 🔭 Atualmente trabalhando em projetos de back-end e APIs REST.
 - 📱 Explorando desenvolvimento mobile multiplataforma
-- 💬 Focado em C#, .NET, Java, Python ou banco de dados e Design Patterns
+- 💬 Focado em C#, .NET, Java, Python e Design Patterns
 - 🤖 Estudando machine learning e modelos de dados na prática
 
 ## 🛠️ Tecnologias & ferramentas
